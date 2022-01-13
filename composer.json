@@ -23,5 +23,7 @@
     "psr-4": {
       "FacebookAds\\": "src/FacebookAds/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
