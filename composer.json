@@ -1,5 +1,5 @@
 {
-  "name": "facebook/php-business-sdk",
+  "name": "junjian/fb-php-business-sdk",
   "description": "PHP SDK for Facebook Business",
   "type": "library",
   "keywords": [
@@ -12,12 +12,12 @@
   ],
   "homepage": "https://developers.facebook.com/",
   "require": {
-    "guzzlehttp/guzzle": "^6.5 || ^7.0"
+    "guzzlehttp/guzzle": "6.3.3"
   },
   "require-dev": {
-    "phpunit/phpunit": "~8",
-    "symfony/finder": "~2.6",
-    "mockery/mockery": "1.3.3"
+    "phpunit/phpunit": "6.5.14",
+    "symfony/finder": "3.3",
+    "mockery/mockery": "1.2.2"
   },
   "autoload": {
     "psr-4": {
